@@ -91,7 +91,7 @@
 % probability of selection, the statement only applies within
 % state.
 
-@relation adultIncome
+@relation CensusIncome
 
 @attribute age numeric
 @attribute workclass {Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked}
